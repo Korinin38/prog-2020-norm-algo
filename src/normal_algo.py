@@ -1,1 +1,1 @@
-print("THis choice is blank!"*3)
+print("This choice is blank!"*3)
